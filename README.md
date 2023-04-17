@@ -1,4 +1,17 @@
-# Hi 👋, I'm Raviprasaath
+<h1>Hi 👋, I'm Raviprasaath</h1>
+
+    <div style="background-color: rgba(0, 0, 0, 0.564);">
+        <p style="color: white; padding: 20px; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;">
+            I am a 2019 Mechanical Engineering graduate with a keen interest in Full Stack Development (FSD). I am currently pursuing an FSD course and have already studied JAVA, HTML, CSS, JavaScript, and DSA (Data Structures and Algorithms). Despite my non-CS background, I am highly motivated to learn and excel in the field of FSD.
+        </p>
+    </div>
+
+
+
+<!--test 2  -->
+
+
+<!-- # Hi 👋, I'm Raviprasaath
 I am a 2019 Mechanical Engineering graduate with a keen interest in Full Stack Development (FSD). I am currently pursuing an FSD course and have already studied JAVA, HTML, CSS, JavaScript, and DSA (Data Structures and Algorithms). Despite my non-CS background, I am highly motivated to learn and excel in the field of FSD.
 
 
@@ -26,7 +39,7 @@ I am a 2019 Mechanical Engineering graduate with a keen interest in Full Stack D
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
+ -->
 
 
 
