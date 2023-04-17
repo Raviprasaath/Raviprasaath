@@ -1,8 +1,9 @@
+<h1 align="center">
+ ${Hi ,I'm\ {\color{red}Ravi}}prasaath$  
+</h1>
 
-<h1 align="center">Hi 👋, I'm Raviprasaath</h1>
 <h3 align="center">Exploring the Best of Both Worlds: My Journey as a Front-End and Java Developer</h6>
 <h6 align="left">I am Full Stack Development student with expertise in Java, Data Structures and Algorithms, HTML, CSS, and JavaScript. I am a detail-oriented and quick learner, always looking for new challenges to expand mine knowledge and skillset. </h4>
-
 
 
 
@@ -57,5 +58,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raviprasaath&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+
+
+<h1 align="center">Hi 👋, I'm Raviprasaath</h1>
 
 
