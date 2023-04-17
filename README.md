@@ -31,7 +31,8 @@
 
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated" width="300"/>
+  
+  <img src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" alt="animated" width="300"/>
 </p>
 
 
@@ -54,8 +55,8 @@
 
   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Raviprasaath&theme=dark&hide_border=false)
-<img src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" alt="animated" width="180"/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raviprasaath&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated" width="150"/>
 
 
 
