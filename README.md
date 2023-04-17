@@ -1,10 +1,10 @@
-<h1>Hi 👋, I'm Raviprasaath</h1>
 
+<!-- 
     <div style="background-color: rgba(0, 0, 0, 0.564);">
         <p style="color: white; padding: 20px; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;">
             I am a 2019 Mechanical Engineering graduate with a keen interest in Full Stack Development (FSD). I am currently pursuing an FSD course and have already studied JAVA, HTML, CSS, JavaScript, and DSA (Data Structures and Algorithms). Despite my non-CS background, I am highly motivated to learn and excel in the field of FSD.
         </p>
-    </div>
+    </div> -->
 
 
 
@@ -48,7 +48,7 @@ I am a 2019 Mechanical Engineering graduate with a keen interest in Full Stack D
 <!------------***************  old *****************-------------->
 
 
-<!-- <h1 align="center">Hi 👋, I'm Raviprasaath</h1>
+<h1 align="center">Hi 👋, I'm Raviprasaath</h1>
 <h3 align="center">Exploring the Best of Both Worlds: My Journey as a Front-End and Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raviprasaath&label=Profile%20views&color=0e75b6&style=flat" alt="raviprasaath" /> </p>
@@ -71,4 +71,4 @@ I am a 2019 Mechanical Engineering graduate with a keen interest in Full Stack D
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raviprasaath&show_icons=true&locale=en&layout=compact" alt="raviprasaath" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raviprasaath&show_icons=true&locale=en" alt="raviprasaath" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raviprasaath&show_icons=true&locale=en" alt="raviprasaath" /></p>
