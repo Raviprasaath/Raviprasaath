@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Raviprasaath</h1>
 <h3 align="center">Exploring the Best of Both Worlds: My Journey as a Front-End and Java Developer</h6>
-<h6 align="center">I am Full Stack Development student with expertise in Java, Data Structures and Algorithms, HTML, CSS, and JavaScript. I am a detail-oriented and quick learner, always looking for new challenges to expand mine knowledge and skillset. </h4>
+<h6 align="left">I am Full Stack Development student with expertise in Java, Data Structures and Algorithms, HTML, CSS, and JavaScript. I am a detail-oriented and quick learner, always looking for new challenges to expand mine knowledge and skillset. </h4>
 
 
 
@@ -31,7 +31,7 @@
 
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated" />
+  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated" width="300"/>
 </p>
 
 
@@ -48,9 +48,14 @@
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=raviprasaath&label=Profile%20views&color=0e75b6&style=flat" alt="raviprasaath" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raviprasaath&show_icons=true&locale=en&layout=compact" alt="raviprasaath" /</p>
+
+
+
   
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=raviprasaath&show_icons=true&locale=en" alt="raviprasaath" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Raviprasaath&theme=dark&hide_border=false)
+<img src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" alt="animated" width="180"/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raviprasaath&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
