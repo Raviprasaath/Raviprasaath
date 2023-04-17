@@ -1,5 +1,6 @@
-# 💫 About Me:
+# Hi 👋, I'm Raviprasaath
 I graduated from Mechanical Engineering in 2019 and am currently pursuing a Full Stack Development course. <br>I have a strong foundation in HTML, CSS, JavaScript, and Data structure and Algorithm (DSA) in JAVA which I am looking to put to use in the field of web development. <br>I am highly motivated and eager to learn new technologies and deliver efficient and high-quality solutions.
+
 
 
 ## 🌐 Socials:
