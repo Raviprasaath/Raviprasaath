@@ -37,7 +37,7 @@
 
 
 
-| ![raviprasaath's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raviprasaath&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) | ![raviprasaath's Streak](https://github-readme-streak-stats.herokuapp.com/?user=raviprasaath&theme=vue-dark&hide_border=true) | <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated" width="200"/> |
+| ![raviprasaath's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raviprasaath&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) | ![raviprasaath's Streak](https://github-readme-streak-stats.herokuapp.com/?user=raviprasaath&theme=vue-dark&hide_border=true) | <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated" width="180"/> |
 | ------------- | ------------- | ------------- |
 
 
