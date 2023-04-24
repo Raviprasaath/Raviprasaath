@@ -51,7 +51,15 @@
 
 
 
+<!-- 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Raviprasaath&theme=dark&hide_border=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilramy&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Raviprasaath&theme=dark&hide_border=false) <br>
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Raviprasaath)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+| <a href="https://github.com/raviprasaath/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raviprasaath&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ravi's github stats" /></a> | <a href="https://github.com/raviprasaath/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raviprasaath&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
