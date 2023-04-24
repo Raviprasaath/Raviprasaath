@@ -44,7 +44,7 @@
 
 
 
-| <a href="https://github.com/raviprasaath/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raviprasaath&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ravi's github stats" /></a> | <a href="https://github.com/raviprasaath/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raviprasaath&layout=compact&theme=buefy&hide_border=true" /></a> | <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated" width="140"/> |
+| <a href="https://github.com/raviprasaath/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raviprasaath&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ravi's github stats" /></a> | <a href="https://github.com/raviprasaath/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raviprasaath&layout=compact&theme=buefy&hide_border=true" /></a> | <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated" width="240"/> |
 | ------------- | ------------- | ------------- |
 
 
